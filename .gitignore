@@ -1,0 +1,15 @@
+@"
+__pycache__/
+*.db
+.pytest_cache/
+myenv/
+.env
+"@ | Set-Content .gitignore.env
+.env
+myenv/
+__pycache__/
+.pytest_cache/
+.env
+myenv/
+__pycache__/
+.pytest_cache/
